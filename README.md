@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about *JAVA stack, competitive programming.*
 
-- 📫 How to reach me *abusalemmangalwedhe@gmail.com*
+- 📫 How to reach me *cs.amanroy@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abusalem-mangalwedhe-628901180/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abusalem-mangalwedhe-628901180" height="30" width="40" /></a>
-<a href="https://instagram.com/abusalem.ershad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abusalem.ershad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-roy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aman-Roy" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/abusalem.ershad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abusalem.ershad" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
