@@ -52,8 +52,8 @@ Here are some ideas to get you started:
    <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v2.png" alt="java" width="35" height="35"/> </a>
 </p>
 
-<p width="60%" align="right">
- <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="" width="300" height="auto"/>
+<p width="60%" align="center">
+ <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="" width="500"height="100%"/>
 </p>
 
 </div>
