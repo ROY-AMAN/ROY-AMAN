@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning *JAVA Backend*
 
-- 👨‍💻 All of my projects are available at [Portfolio]()
+- 👨‍💻 All of my projects are available at [Portfolio](https://amanroy.netlify.app/)
 
 - 👯 I’m looking to collaborate on *competitive programming* & *Java Backend Projects.*
 
@@ -56,8 +56,18 @@ Here are some ideas to get you started:
 <p align="left" > 
 
   
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v2.png" alt="java" width="35" height="35"/> </a> <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
-  
+   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> <a href="https://getbootstrap.com" rel="nofollow">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://docs.oracle.com/en/java/" target="_blank">
+  <img src="https://amanroy.netlify.app/images/java.svg" alt="java" width="35" height="35"/> 
+  </a>
+   <a href="https://docs.oracle.com/cd/E11035_01/workshop102/ormworkbench/hibernate-tutorial/tutHibernate1.html" target="_blank">
+  <img src="https://amanroy.netlify.app/images/hibernatesvg.svg" alt="Java Hibernet" width="35" height="35"/> 
+  </a>
+   <a href="https://spring.io/projects/spring-framework" target="_blank">
+  <img src="https://amanroy.netlify.app/images/spring.svg" alt="Spring Frameworks" width="35" height="35"/> 
+  </a>
+   <a href="https://docs.aws.amazon.com/index.html?nc2=h_ql_doc" target="_blank">
+  <img src="https://amanroy.netlify.app/images/aws.svg" alt="AWS" width="35" height="35"/> 
+  </a>
   
 
 </p>
