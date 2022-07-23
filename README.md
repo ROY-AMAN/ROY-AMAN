@@ -34,14 +34,16 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<!-- <a href="https://www.linkedin.com/in/aman-roy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aman-Roy" height="30" width="40" /></a> -->
+ <a href="https://www.linkedin.com/in/aman-roy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aman-Roy" height="30" width="40" /></a> 
   
 <!-- <a href="https://instagram.com/abusalem.ershad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aman.bhaiya" height="30" width="40" /></a> -->
   
-  <p align="left" dir="auto">
+ <!-- <p align="left" dir="auto">
 <a href="https://linkedin.com/in/shivani009" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivani009" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://codesandbox.io/u/ROY-AMAN" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivanibanduni009" height="30" width="40" style="max-width: 100%;"></a>
     
+  -->
+  
 <!-- <a href="https://instagram.com/shivanibanduni" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivanibanduni" height="30" width="40" style="max-width: 100%;"></a> -->
 
 </p>
