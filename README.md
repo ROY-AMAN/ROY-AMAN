@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there 🙋‍♂️, I'm Aman Roy</h1>
 <h3 align="center">A developing Java Developer from India !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roy-aman&label=Profile%20views&color=0e75b6&style=flat" alt="roy-aman" /> </p> 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roy-aman" alt="roy-aman" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-revlitix&label=Profile%20views&color=0e75b6&style=flat" alt="roy-aman" /> </p> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-revlitix" alt="roy-aman" /></a> </p>
 
 - 🌱 I’m currently learning *JAVA Backend*
 
