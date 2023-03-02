@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roy-aman&show_icons=true&locale=en&layout=compact" alt="roy-aman" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roy-aman&show_icons=true&locale=en" alt="roy-aman" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-revlitix&show_icons=true&locale=en&layout=compact" alt="roy-aman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman-revlitix&show_icons=true&locale=en" alt="roy-aman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roy-aman&" alt="roy-aman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-revlitix&" alt="roy-aman" /></p>
